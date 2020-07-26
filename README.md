@@ -2,7 +2,7 @@
 ###  **Project Name:  Appri**
 ### **This is a Html,Css ,Bootstarp template.**
 ### Live:    https://shahreyar46.github.io/Appri/
-### **Built With**
+### **Build With**
 
 - HTML5
 
