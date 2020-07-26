@@ -1,0 +1,347 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+.slider-height {
+    background-position-y: top;
+    background-position-x: 60%;
+}
+.shape-pattern {
+    left: 116%;
+    top: 30%;
+}
+.shape-4 {
+  right: -64%;
+}
+.shape-3 {
+    left: -20%;
+}
+.slider-image {
+    padding-top: 104px;
+    padding-left: 15px;
+}
+    
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  li {
+    margin-right: 12px;
+}
+
+.btn {
+  font-size: 17px;
+  width: 150px;
+  padding: 13px;
+}
+.slider-text .btn {
+  padding: 14px;
+  width: 175px;
+  font-size: 16px;
+}
+.shape-1 {
+  left: 2%;
+}
+
+.slider-height {
+  min-height: 1040px;
+  background-position: center center;
+}
+.shape-2 {
+  bottom: 10%;
+  left: 45%;
+}
+.work-content {
+  padding-top: 60px;
+}
+
+.blog-inner {
+  padding: 30px 22px;
+}
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .shape-1 {
+    top: 16%;
+    left: 3%;
+}
+.slider-content-space {
+  padding-top: 230px;
+}
+.slider-height {
+  min-height: 978px;
+  background-position: center center;
+}
+.shape-2 {
+  bottom: 6%;
+  left: 41%;
+}
+.fact-area {
+  margin-top: 50px;
+}
+
+.single-fact h2 {
+  font-size: 40px;
+}
+.single-fact::after {
+  height: 42px;
+  top: 22px;
+  left: 148px;
+}
+.shape-6 {
+ display: none;
+}
+.shape-5 {
+  display: none;
+}
+.works-area {
+  margin-top: -175px;
+}
+.video-area {
+  margin-top: -197px;
+}
+.work-content {
+  padding-top: 5px;
+}
+.work-content .btn {
+  width: 200px;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+.price-link .btn {
+  width: 179px;
+  padding: 14px;
+}
+.price-box{
+  margin-bottom: 30px;
+}
+.testi-item p {
+  font-size: 24px;
+}
+.testimonial-area {
+  margin-top: 330px;
+}
+.testi-space {
+  padding-top: 130px;
+  padding-bottom: 130px;
+}
+.faq-height {
+  min-height: 740px;
+  background-position: center center;
+  margin-top: -210px;
+}
+.latest-blog-area .section-title {
+  margin-top: -164px;
+}
+.subscribe-title h3 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+.available-text h3 {                                                                           
+  font-size: 50px;
+  text-align: center;
+}
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+  .shape-1 {
+    display: none;
+}
+.slider-text h2 {
+  font-size: 31px;
+}
+.slider-text p {
+  font-size: 16px;
+  line-height:25px;
+}
+.slider-text .btn {
+  padding: 9px;
+  width: 150px;
+  font-size: 15px;
+}
+.slider-content-space {
+  padding-top: 90px;
+}
+.slider-height {
+  min-height: 512px;
+  margin-bottom: 50px;
+}
+.shape-2 {
+  display: none;
+}
+
+.single-fact h2 {
+  font-size: 38px;
+}
+.single-fact{
+  margin-top: 25px;
+}
+
+.single-fact::after {
+  display: none;
+}
+.section-title h3 {
+  font-size: 30px;
+}
+.section-title p {
+  font-size: 16px;
+  line-height: 25px;
+}
+.pt-150 {
+  padding-top: 70px;
+}
+.mb-85 {
+  margin-bottom: 50px;
+}
+
+.video-area {
+  margin-top: 22px;
+}
+.video-wrapper i {
+  padding: 15px;
+  top: 42%;
+  right: 39%;
+  font-size: 18px;
+}
+.video-wrapper h2 {
+  top: 27%;
+  left: 40%;
+  font-size: 22px;
+}
+.work-content h3 {
+  font-size: 26px;
+}
+.work-content p {
+  font-size: 15px;
+  line-height: 25px;
+}
+.work-content {
+  padding-top: 0px;
+}
+.work-content .btn {
+  width: 165px;
+  padding: 12px;
+  font-size: 15px;
+  margin-bottom: 25px;
+}
+.shape-6 {
+  display: none;
+ }
+ .shape-5 {
+   display: none;
+ }
+ .price-box {
+  margin-bottom: 15px;
+}
+.testimonial-title h2 {
+  font-size: 35px;
+}
+.testi-item p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.mb-40 {
+  margin-bottom: 20px;
+}
+.testi-item span {
+  font-size: 15px;
+}
+.testi-space {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-top: 321px;
+}
+
+.test-image-active img {
+  margin: 0 102px;
+}
+
+.faq-height {
+  min-height: 529px;
+  background-position: center center;
+  margin-top: -276px;
+}
+
+.mb-80 {
+  margin-bottom: 35px;
+}
+.mb-135 {
+  margin-bottom: -160px;
+}
+.slick-slide img {
+  margin-left: 149px;
+}
+.brand-active .slick-slide img {
+  margin-left: -237px;
+}
+.faq-bottom-area h2 {
+  font-size: 25px;
+}
+.pt-130 {
+  padding-top: 60px;
+}
+.subscribe-title h3 {
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+.subscribe-form input {
+  width: 100%;
+  height: 100%;
+}
+.subscribe-form .btn {
+  right: 4px;
+  top: 3px;
+  width: 134px;
+  padding: 6px;
+  font-size: 16px;
+}
+.available-text h3 {
+  font-size: 40px;
+  text-align: center;
+}
+.available-btn a img {
+  width: 100%;
+}
+
+
+}
+
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+
+
+/* retina query */
+@media only screen and (-webkit-min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min--moz-device-pixel-ratio:2) and (max-width:991.98px),only screen and (-o-min-device-pixel-ratio:2/1) and (max-width:991.98px),only screen and (min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min-resolution:192dpi) and (max-width:991.98px),only screen and (min-resolution:2dppx) and (max-width:991.98px){
+
+.logo .standard-logo{
+  display: none;
+}
+.logo .retina-logo{
+  display: inline-block;
+}
+
+}
+
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){
+.logo .standard-logo{
+  display: none;
+}
+
+.logo .retina-logo{
+  display: inline-block;
+}
+
+}
